@@ -2168,6 +2168,13 @@
 0.0.0.0 pubads.g.doubleclick.net 
 0.0.0.0 sb.scorecardresearch.com
 
+#VPN
+0.0.0.0 hotspotshield.com
+0.0.0.0 hotspotshield.net
+0.0.0.0 anchorfree.com
+0.0.0.0 anchorfree.net
+0.0.0.0 openvpn.net
+
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
