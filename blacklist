@@ -2174,6 +2174,7 @@
 0.0.0.0 anchorfree.com
 0.0.0.0 anchorfree.net
 0.0.0.0 openvpn.net
+0.0.0.0 cloudfront.net
 
 # blacklist
 #
